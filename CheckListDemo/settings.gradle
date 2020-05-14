@@ -1,0 +1,2 @@
+rootProject.name='CheckList Demo'
+include ':app'
